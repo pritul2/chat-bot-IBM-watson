@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Watson Conversation Service Credentials --> 
+    <string name="workspace_id">679ea7ef-3125-47e4-b47e-844e9c3c0411</string> 
+    <string name="conversation_username">591a3f17-b445-43e5-a517-fe41d67d5da9</string> 
+    <string name="conversation_password">0xtO7PifAjLS</string>  
+
+    <!--Watson Speech-To-Text Service Credentials--> 
+    <string name="STT_username"></string> 
+    <string name="STT_password"></string>  
+
+    <!--Watson Text-To-Speech Service Credentials--> 
+    <string name="TTS_username"></string>  
+    <string name="TTS_password"></string>
+
+</resources>
